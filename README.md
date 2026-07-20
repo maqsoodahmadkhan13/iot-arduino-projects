@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IoT Arduino Projects
 
 A growing collection of Arduino / IoT projects, organized by difficulty level and built/tested in **[Wokwi](https://wokwi.com)**. Projects target boards from the Arduino family (Uno, Nano, Mega) and can be run either in the simulator or on real hardware.
@@ -52,7 +51,3 @@ All projects are built and tested in **Wokwi** (wokwi.com), which runs actual co
 ## License
 
 MIT — see [LICENSE](./LICENSE).
-=======
-# -iot-arduino-projects
-A collection of Arduino/IoT projects organized by difficulty — beginner, intermediate, and advanced.
->>>>>>> a2c4383a72cbc78b47abf941e08a7455690b63a9
